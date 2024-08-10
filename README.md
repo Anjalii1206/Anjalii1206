@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 🔭 I’m enhancing my full stack web development skills with React, Node.js, and MongoDB, and seeking open-source collaborations and internship opportunities for practical experience.<br><br>
 👯 Looking to contribute to innovative web projects and engage in community-driven development.<br><br>
 🤝 Actively seeking internships to apply full stack development skills and gain professional experience.<br><br>
