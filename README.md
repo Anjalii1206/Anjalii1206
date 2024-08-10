@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anjali Verma.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalii1206&label=Profile%20views&color=0e75b6&style=flat" alt="anjalii1206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalii1206" alt="anjalii1206" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 - 🔭 I’m currently working on **Code Fusion**
 
 - 🌱 I’m currently learning **Node.js, Sockets**
